@@ -14,4 +14,4 @@ Dependencies:
 
 Planned trajectories:
 
-![GitHub Logo](/images/logo.png)
+![Trajectory](https://raw.github.com/jmiseikis/SmarAct-Engrave/master/images/engrave.jpg)
